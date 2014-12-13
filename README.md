@@ -5,4 +5,4 @@ the titular Pokémon.
 
 ![Haunter Atom Syntax](https://cloud.githubusercontent.com/assets/2191604/5403235/40edae62-8159-11e4-861f-0d375daaeb0e.png)
 
-There's also a matching [haunter ui theme](https://github.com/haunterio/haunter-ui-syntax).
+There's also a matching [haunter ui theme](https://github.com/haunterio/haunter-atom-ui).

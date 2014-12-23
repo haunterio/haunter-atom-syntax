@@ -1,7 +1,7 @@
 {
   "name": "haunter-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "description": "Atom syntax theme inspired by the Pokémon Haunter",
   "repository": "https://github.com/haunterio/haunter-atom-syntax",
   "license": "MIT",

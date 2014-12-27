@@ -7,6 +7,6 @@
 Atom syntax theme using dark purples and pinks primarily, inspired by
 the titular Pokémon.
 
-![Haunter Atom Syntax](https://cloud.githubusercontent.com/assets/2191604/5542759/68d7da16-8ab8-11e4-8b21-bf3de866095a.png)
+![Haunter Atom Syntax](screen.png)
 
 There's also a matching [haunter ui theme](https://github.com/haunterio/haunter-atom-ui).

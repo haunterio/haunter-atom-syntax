@@ -14,3 +14,6 @@
 ## 0.3.2 - Replace deprecated selectors
 * Replaced calls to `.editor` and `.editor-colors` with `atom-text-editor`
 * Replaced call to `.editor.min` with `atom-text-editor[mini]`
+
+## 0.3.3 - Replace more deprecated selectors
+* Missed two `.editor` selectors in `base.less`

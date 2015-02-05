@@ -10,3 +10,7 @@
 ## 0.3.1 - More colors, apm badges
 * Replaced some grays with pinks and purples
 * Add apm badges to the README
+
+## 0.3.2 - Replace deprecated selectors
+* Replaced calls to `.editor` and `.editor-colors` with `atom-text-editor`
+* Replaced call to `.editor.min` with `atom-text-editor[mini]`
